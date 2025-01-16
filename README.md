@@ -28,8 +28,8 @@ cd weather-dashboard
 
 ## Author
 **Jerome Brent A. Tegrado**  
-**BSIS 3A**
+**BSIS-3A**
 
-## In Partial Fulfillment of The Requirements for
+**In Partial Fulfillment of The Requirements for**
 Web Development Laboratory CC311L-M  
 Professor: Mary Joy D. Viñas
