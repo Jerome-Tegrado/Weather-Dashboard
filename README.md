@@ -18,7 +18,7 @@ Weather Dashboard is a responsive web application that allows users to check the
 
 ## Installation
 1. **Clone the repository:**
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone [https://github.com/yourusername/weather-dashboard.git](https://github.com/Jerome-Tegrado/Weather-Dashboard.git)
 
 2. **Navigate to the project directory:**
 cd weather-dashboard
