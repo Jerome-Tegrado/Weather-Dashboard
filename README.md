@@ -26,10 +26,10 @@ cd weather-dashboard
 3. **Open the application:**
 - Open `index.html` in your preferred web browser.
 
-## Author
+## Made by:
 **Jerome Brent A. Tegrado**  
 **BSIS-3A**
 
-**In Partial Fulfillment of The Requirements for**
+**In Partial Fulfillment of The Requirements for
 Web Development Laboratory CC311L-M  
-Professor: Mary Joy D. Viñas
+Professor: Mary Joy D. Viñas**
