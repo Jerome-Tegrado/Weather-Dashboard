@@ -30,6 +30,9 @@ cd weather-dashboard
 **Jerome Brent A. Tegrado**  
 **BSIS-3A**
 
-**In Partial Fulfillment of The Requirements for
-Web Development Laboratory CC311L-M  
+## To be passed:
+**Web Development Laboratory CC311L-M  
 Professor: Mary Joy D. Viñas**
+
+## Deployed site:
+https://weather-dashboard-jerometegrado.netlify.app/
